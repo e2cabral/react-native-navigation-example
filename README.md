@@ -21,6 +21,8 @@ This is a simple example of how to create a Stack Route:
   </Stack.Navigator>
 </NavigationContainer>
 ```
+#### Tabs Example
+
 This is a simple example of how to create a Tabs Route:
 ```tsx
 <Tab.Navigator>
@@ -41,6 +43,9 @@ This is a simple example of how to create a Tabs Route:
     }} />
 </Tab.Navigator>
 ```
+
+#### Drawer Example
+
 This is a simple example of how to create a Drawer Route:
 ```tsx
 <DrawerPage.Navigator>
